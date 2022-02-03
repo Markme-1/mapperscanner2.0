@@ -1,4 +1,4 @@
-<img src= https://github.com/Markme-1/mapperscanner2.0/blob/main/picture/mapperscanner.png?raw=true>
+<img src="picture/mapperscanner.png">
  
 nmap automation script written in BASH version 2.0
 
