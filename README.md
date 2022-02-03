@@ -4,7 +4,7 @@ nmap automation script written in BASH.
 
 requirments :- namp.
 	
-	To install nmap "sudo apt install nmap"
+	 "sudo apt install nmap"
 
 
 
