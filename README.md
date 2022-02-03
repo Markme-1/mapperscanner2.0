@@ -12,6 +12,9 @@ requirments :- namp
 installation....
 
 git clone https://github.com/Markme-1/mapperscanner2.0.git
+
 cd mapperscanner2.0/
+
 chmod +x mscanner.sh
+
 ./mscanner.sh
